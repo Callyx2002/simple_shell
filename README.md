@@ -14,7 +14,7 @@ In interactive mode, simply run the program and wait for the prompt to appear. F
 ## Non-Interactive Mode
 In non-interactive mode, echo your desired command and pipe it into the program like this:
 
-echo "ls" | ./shell In non-interactive mode, the program will exit after finishing your desired command(s).
+echo "ls" | ./hsh In non-interactive mode, the program will exit after finishing your desired command(s).
 
 This is the man page which contains all functions and descriptions of all the functions used in this Simple shell project. To access this page, Do:
 
